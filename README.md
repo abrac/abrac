@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![dan-leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abrac&show_icons=true)](https://github.com/abrac)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrac&layout=compact)](https://github.com/abrac/)
 
 <!--
 - 🔭 I’m currently working on ...
