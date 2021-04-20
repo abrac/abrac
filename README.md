@@ -1,14 +1,16 @@
-### Hi there 👋
+### Hi there / Howzit / Hoe gaan dit / Molweni 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrac&layout=compact)](https://github.com/abrac/)
+I'm a Mechatronics Engineer, hailing from the Eastern Cape in South Africa. My research is focussed on the Electric Vehicles, and I am currently investigating the feasibility of *electrifying* minibus taxis in Sub-Saharan Africa.
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My favourite programming languages:
+- Python
+- C# (but learning Vala)
+- GNU Octave
+
+I'm also a GNU/Linux enthusiast. I hope free-software can be the norm -- for the sake of making computers and software more accessible to the underpriveleged.
+
+I'm currently doing my Master's Degree in Stellenboch University. Please contact me if you would like to collaborate or find out more about my research.
+
+✉️ E-mail: <24540460 + 3><at>sun.ac.za (Compute the sum.)
+
+⚡ Fun fact: My home language is Malayalam (say that aloud, it's fun).
