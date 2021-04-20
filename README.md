@@ -4,7 +4,7 @@ I'm a Mechatronics Engineer, hailing from the Eastern Cape in South Africa. My r
 
 My favourite programming languages:
 - Python
-- C# (but learning Vala)
+- C# (but migrating to Vala)
 - GNU Octave
 
 I'm also a GNU/Linux enthusiast. I hope free-software can be the norm -- for the sake of making computers and software more accessible to the underpriveleged.
