@@ -1,4 +1,4 @@
-### Hi there / Howzit / Hoe gaan dit / Molweni / നമസ്ക്കരം (namaskaram) 👋
+### Hi there / Howzit / Hoe gaan dit / Molweni / നമസ്ക്കരം (Namaskaram) 👋
 
 I'm a Mechatronics Engineer, hailing from the Eastern Cape in South Africa. My research is focussed on the Electric Vehicles, and I am currently investigating the feasibility of *electrifying* minibus taxis in Sub-Saharan Africa.
 
