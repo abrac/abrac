@@ -5,9 +5,9 @@ I'm a Mechatronics Engineer, hailing from the Eastern Cape in South Africa. My r
 My favourite programming languages:
 - Python
 - C# (but migrating to Vala)
-- GNU Octave
+- GNU Octave (migrated from Matlab)
 
-I'm also a GNU/Linux enthusiast. I hope free-software can be the norm -- for the sake of making computers and software more accessible to the underpriveleged.
+I'm also a GNU/Linux enthusiast. I hope to help make computers and software more accessible to the underpriveleged.
 
 I'm currently doing my Master's Degree in Stellenboch University. Please contact me if you would like to collaborate or find out more about my research.
 
