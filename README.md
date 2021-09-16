@@ -11,6 +11,6 @@ I'm also a GNU/Linux enthusiast. I hope to help make computers and software more
 
 I'm currently doing my Master's Degree in Stellenboch University. Please contact me if you would like to collaborate or find out more about my research.
 
-✉️ E-mail: <24540460 + 3><at>sun.ac.za (Compute the sum.)
+✉️ E-mail: `<24540460 + 3><at>sun.ac.za` (Compute the sum.)
 
 ⚡ Fun fact: My home language is Malayalam (say that aloud, it's fun).
