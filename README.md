@@ -1,5 +1,7 @@
 ### Hi there / Howzit / Hoe gaan dit / Molweni / നമസ്ക്കരം (Namaskaram) 👋🏽
 
+> Note: I am migrating to Gitlab: https://gitlab.com/_abrac. Please Follow me there.
+
 I'm a Mechatronics Engineer, hailing from the Eastern Cape in South Africa. My research is focussed on Electric Vehicles, and I am currently investigating the feasibility of *electrifying* minibus taxis (the leading form of public transport) in Sub-Saharan Africa.
 
 My favourite programming languages:
