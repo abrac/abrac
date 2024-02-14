@@ -11,7 +11,7 @@ My favourite programming languages:
 
 I'm also a GNU/Linux enthusiast. I hope to help make computers and software more accessible to the underpriveleged.
 
-I'm currently doing my Master's Degree in Stellenboch University. Please contact me if you would like to collaborate or find out more about my research.
+I'm currently doing my Post-Doctorate in Stellenboch University. Please contact me if you would like to collaborate or find out more about my research.
 
 ✉️ E-mail: `<24540460 + 3><at>sun.ac.za` (Compute the sum.)
 
